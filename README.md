@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vincent Raya</h1>
 
-<!--
-**Vincent4127/Vincent4127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Senior Computer Engineering Student | Software Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌐 IEEE Webmaster at the University of Balamand
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+I'm a Senior Computer Engineering student and Software Engineer passionate about full-stack development, mobile applications, and backend systems. I enjoy solving complex problems, exploring new technologies, and building scalable, efficient, and user-friendly software.
+</p>
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,cpp,c,python,java,go,html,css,tailwind,postgres,mongodb,git,github,postman,matlab&theme=dark" alt="Languages and Tools" />
+</p>
